@@ -1,0 +1,11 @@
+W:\Univer\SessiyaLast\Form1\Form1\bin\Debug\Form1.exe.config
+W:\Univer\SessiyaLast\Form1\Form1\bin\Debug\Form1.exe
+W:\Univer\SessiyaLast\Form1\Form1\bin\Debug\Form1.pdb
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.csproj.SuggestedBindingRedirects.cache
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.Form1.resources
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.exe
+W:\Univer\SessiyaLast\Form1\Form1\obj\Debug\Form1.pdb
